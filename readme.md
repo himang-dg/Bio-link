@@ -6,7 +6,7 @@
 
 A sleek, modern **bio link page** with glassmorphism design, animated backgrounds, and dynamic link rendering — built with **pure HTML, CSS & JavaScript**.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%F0%9F%9A%80-blue?style=for-the-badge)](https://bio-link-himangv1.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%F0%9F%9A%80-blue?style=for-the-badge)](https://bio-himang.netlify.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 </div>
@@ -31,11 +31,7 @@ A sleek, modern **bio link page** with glassmorphism design, animated background
 </div>
 <hr/>
 
-<p align="center">
-  <a href="https://github.com/himang-dg/Bio-link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himang-dg&repo=Bio-link&theme=tokyonight" alt="GitHub Repo Card">
-  </a>
-</p>
+
 
 ## ✨ Features
 
@@ -54,7 +50,7 @@ A sleek, modern **bio link page** with glassmorphism design, animated background
 
 ## 🚀 Demo
 
-[🔗 Live Demo — bio-link-himangv1.netlify.app](https://bio-link-himangv1.netlify.app/)
+[🔗 Live Demo — bio-link-himang](https://bio-himang.netlify.app/)
 
 ## 🛠️ Tech Stack
 
