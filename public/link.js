@@ -28,7 +28,7 @@
 // ============================================================
 
 const links = [
-  { type: 'website', label: 'Portfolio', url: 'https://portofolio-v2-nextjs.vercel.app/' },
+  { type: 'website', label: 'Portfolio', url: 'https://s.id/portfolio-himang' },
   { type: 'coffee', label: 'MyCoffee', url: 'https://tako.id/himang' },
   { type: 'instagram', label: 'Instagram', url: 'https://instagram.com/himang_dg' },
   { type: 'youtube', label: 'YouTube', url: 'https://www.youtube.com/channel/UCX8aSUkYR0tAW3md1JFmhnQ?sub_confirmation=1' },
